@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "903301536942",
+    "project_id": "activity-tracker-app-2acf2",
+    "storage_bucket": "activity-tracker-app-2acf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903301536942:android:9dba89f6a9468d8efe613f",
+        "android_client_info": {
+          "package_name": "AcitivityTrackerApp.FlutterApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI8xiPGrUCinb88BFDFVHyXTdtAizWeeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903301536942:android:56d3c9b83cf272d4fe613f",
+        "android_client_info": {
+          "package_name": "com.example.activity_tracer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI8xiPGrUCinb88BFDFVHyXTdtAizWeeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
